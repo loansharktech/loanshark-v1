@@ -3,7 +3,6 @@
 > Borrowing Aggregator
 
 Loan Shark is a protocol that aims to optimize loan expenses for DeFi users. It achieves this by monitoring the borrowing markets and whenever there is a better rate, it refinances the debt its users.
-More details could be found [here](https://docs.fujidao.org/).
 
 ---
 
